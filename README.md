@@ -1,4 +1,4 @@
-Web development project for CS601.  This is a Buget Application developed with the goal of becoming familiar with ReactJS.
+Web development project for CS601.  This is a Buget Application developed with the goal of becoming familiar with ReactJS and Material-UI.
 
 # How to Build
 
