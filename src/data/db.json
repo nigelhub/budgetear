@@ -1,0 +1,74 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "first": "Nigel",
+      "last": "Stuart"
+    }
+  ],
+  "expense": [
+    {
+      "id": 1,
+      "cost": "1800",
+      "name": "car insurance",
+      "occurance": "Annually",
+      "category": "Insurance"
+    },
+    {
+      "id": 2,
+      "cost": "1700",
+      "name": "Home Owners Insurance",
+      "occurance": "Annually",
+      "category": "Insurance"
+    },
+    {
+      "id": 3,
+      "cost": "720",
+      "name": "Comcast",
+      "occurance": "Montly",
+      "category": "Cable"
+    },
+    {
+      "id": 4,
+      "cost": "43",
+      "name": "YMCA Membership",
+      "occurance": "Monthly",
+      "category": "Health"
+    },
+    {
+      "name": "Hulu",
+      "cost": "5",
+      "occurrence": "Monthly",
+      "category": "Entertainment",
+      "id": 5
+    },
+    {
+      "name": "Netflix",
+      "cost": "10",
+      "occurrence": "Monthly",
+      "category": "Entertainment",
+      "id": 6
+    },
+    {
+      "name": "Apple Music",
+      "cost": "5",
+      "occurrence": "Monthly",
+      "category": "Entertainment",
+      "id": 7
+    },
+    {
+      "name": "AAA",
+      "cost": "89",
+      "occurrence": "Annually",
+      "category": "Insurance",
+      "id": 8
+    },
+    {
+      "name": "pizza",
+      "cost": "15",
+      "occurrence": "Daily",
+      "category": "Health",
+      "id": 9
+    }
+  ]
+}
